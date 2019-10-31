@@ -14,5 +14,5 @@ It **ASSUMES** that the data is in the email:password format.
 ### Querying emails
 ```ruby run.rb -qu jake.mcgrath@gmail.com obama.txt```
 
-### Using the like Query
+### Using the like query
 ```ruby run.rb -ql %@gmail% obama.txt```
